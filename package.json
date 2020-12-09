@@ -1,0 +1,24 @@
+{
+  "name": "ane-5",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimeflorida17/ANE-5.git"
+  },
+  "author": "Jaime Calvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimeflorida17/ANE-5/issues"
+  },
+  "homepage": "https://github.com/jaimeflorida17/ANE-5#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "browserify": "^17.0.0",
+    "watchify": "^3.11.1"
+  }
+}
